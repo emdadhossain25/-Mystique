@@ -2,6 +2,8 @@
 Material Design Support Android Music Player
 
 
+License
+------------------------------------------------------------------------------------------------------------------------------------------
 Copyright 2017 - Emdad Hossain
 
 Licensed under the Apache License, Version 2.0 (the "License");
